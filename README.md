@@ -1,8 +1,13 @@
-<h3>👋 Hello!</h2>
-<div>
-  <a href="https://www.linkedin.com/in/mconsunji/">LinkedIn</a> / <a href="http://mconsunji.com/">Portfolio</a> / <a href="mailto:marge.consunji@gmail.com">Email</a>
+<div align="center">
+  <h3>👋 Hello!</h2>
+  <div>
+    <a href="https://www.linkedin.com/in/mconsunji/">LinkedIn</a> / <a href="http://mconsunji.com/">Portfolio</a> / <a          href="mailto:marge.consunji@gmail.com">Email</a>
+  </div>
+  
+  <p>Hey there! I'm Marge. I'm a React developer based in rainy Taipei.</p>
 </div>
-<p>Hey there! I'm Marge. I'm a React developer based in rainy Taipei.</p>
+
+<hr />
 
 <ul>
   <li>I mostly work with <b>JavaScript</b>, <b>Next.js</b>, <b>React</b> and <b>styled-components</b></li>
