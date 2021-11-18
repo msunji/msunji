@@ -1,6 +1,6 @@
 <h3>👋 Hello!</h2>
 <div>
-  <a href="">LinkedIn</a> / <a href="">Portfolio</a> / <a href="">Email</a>
+  <a href="https://www.linkedin.com/in/mconsunji/">LinkedIn</a> / <a href="http://mconsunji.com/">Portfolio</a> / <a href="mailto:marge.consunji@gmail.com">Email</a>
 </div>
 <p>Hey there! I'm Marge. I'm a React developer based in rainy Taipei.</p>
 
