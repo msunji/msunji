@@ -29,7 +29,7 @@
   <li>Learning: Tailwind CSS, Node.js, Firebase</li>
   <li>Ongoing projects:
     <ul>
-      <li>Frontend Mentor Challenges - You can find a compiled list of completed challenges <a href="https://agitated-lewin-aa41a1.netlify.app/">here</a>
+      <li>Frontend Mentor Challenges - You can find a compiled list of completed challenges <a href="https://fe-mentor-compilation.herokuapp.com/">here</a>
     </ul>
   </li>
 </ul>
