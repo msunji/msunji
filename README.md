@@ -14,15 +14,6 @@
   <li>I've also used <b>Python</b> for data wrangling and data visualisation</li>
 </ul>
 
-<details>
-  <summary><b>✨ Some fun facts</b></summary>
-  <ul>
-    <li>I enjoy learning languages. I'm currently learning Mandarin, Japanese, and Korean in my spare time. Living in Taiwan's been a real treat because I get to learn something new everyday!</li>
-    <li>I also enjoy drawing, going out on runs, and baking</li>
-    <li>My favourite video game series is Katamari Damacy!</li>
-  </ul>
-</details>
-
 <h3>🌿 What I've been up to</h3>
 <ul>
   <li>Learning: Tailwind CSS, Node.js, Firebase</li>
@@ -34,5 +25,14 @@
     </ul>
   </li>
 </ul>
+
+<details>
+  <summary><b>✨ Some fun facts</b></summary>
+  <ul>
+    <li>I enjoy learning languages. I'm currently learning Mandarin, Japanese, and Korean in my spare time. Living in Taiwan's been a real treat because I get to learn something new everyday!</li>
+    <li>I also enjoy drawing, going out on runs, and baking</li>
+    <li>My favourite video game series is Katamari Damacy!</li>
+  </ul>
+</details>
 
 
