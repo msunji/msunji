@@ -19,7 +19,6 @@
   <ul>
     <li>I enjoy learning languages. I'm currently learning Mandarin, Japanese, and Korean in my spare time. Living in Taiwan's been a real treat because I get to learn something new everyday!</li>
     <li>I also enjoy drawing, going out on runs, and baking</li>
-    <li>I'm currently finishing the Ryuu ga Gotoku/Yakuza series (whilst I put off finishing Dark Souls 3 oops)</li>
     <li>My favourite video game series is Katamari Damacy!</li>
   </ul>
 </details>
