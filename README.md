@@ -12,6 +12,8 @@
 <ul>
   <li>I mostly work with <b>JavaScript</b>, <b>Next.js</b>, <b>React</b> and <b>styled-components</b></li>
   <li>I've also used <b>Python</b> for data wrangling and data visualisation</li>
+  <li>Outside of coding, I enjoy learning foreign languages, drawing, running, and baking</li>
+  <li>Also, my favourite video game of all time is Katamari Damacy</li>
 </ul>
 
 <h3>🌿 What I've been up to</h3>
@@ -25,14 +27,4 @@
     </ul>
   </li>
 </ul>
-
-<details>
-  <summary><b>✨ Some fun facts</b></summary>
-  <ul>
-    <li>I enjoy learning languages. I'm currently learning Mandarin, Japanese, and Korean in my spare time. Living in Taiwan's been a real treat because I get to learn something new everyday!</li>
-    <li>I also enjoy drawing, going out on runs, and baking</li>
-    <li>My favourite video game series is Katamari Damacy!</li>
-  </ul>
-</details>
-
 
