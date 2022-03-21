@@ -21,7 +21,7 @@
     <ul>
       <li>Frontend Mentor Challenges - You can find a compiled list of completed challenges <a href="https://fe-mentor-compilation.herokuapp.com/">here</a>
       <li>Monthly Baking Projects - Every month, I challenge myself to work around a theme (pies, bread, cookies, etc.)</li>
-      <li>Personal Wiki - I'm trying to learn in public whilst also keeping references for future me. You can read my notes <a href="https://wiki.mconsunji.com/">here</a>
+      <li><a href="https://wiki.mconsunji.com/">Personal Wiki</a> - I'm trying to learn in public whilst also keeping references for future me. Covers programming, baking, and cooking (among other things I'd like to talk about eventually).
     </ul>
   </li>
 </ul>
