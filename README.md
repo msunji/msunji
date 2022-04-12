@@ -10,7 +10,7 @@
 <hr />
 
 <ul>
-  <li>I work with <b>JavaScript</b>, <b>Next.js</b>, <b>React</b> and <b>styled-components</b></li>
+  <li>I work with <b>JavaScript</b>, <b>Next.js</b>, <b>React</b>, <b>Tailwind CSS</b>, and <b>styled-components</b></li>
   <li>I've also used <b>Python</b> for data wrangling and data visualisation</li>
   <li>Outside of coding, I enjoy learning foreign languages, drawing, running, and baking</li>
   <li>I also like playing video games. Katamari Damacy, Ace Attorney, and the Yakuza series are definitely at the top of my list.</li>
