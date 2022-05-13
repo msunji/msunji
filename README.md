@@ -24,7 +24,7 @@
       <li>Frontend Mentor Challenges - You can find a compiled list of completed challenges <a href="https://fe-mentor-compilation.herokuapp.com/">here</a>
       <li>Monthly Baking Projects - Every month, I challenge myself to work around a theme (pies, bread, cookies, etc.)</li>
       <li><a href="https://wiki.mconsunji.com/">Personal Wiki</a> - I'm trying to learn in public whilst also keeping references for future me. Covers programming, baking, and cooking (among other things I'd like to talk about eventually).
-      <li>I'm learning Japanese on my own by playing video games entire in Japanese.</li>
+      <li>I'm learning Japanese on my own by playing video games entirely in Japanese.</li>
       <li><a href="https://github.com/msunji/fsopen-2022">Fullstack Open 2022</a> - I'm also trying to refresh my knowledge and fill in some gaps by going through the 2022 Fullstack Open Course. Here's how I'm faring so far.
     </ul>
   </li>
