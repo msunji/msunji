@@ -7,7 +7,7 @@
   <p>Hey there! I'm Marge. I'm a frontend developer based in rainy Taipei.</p>
 </div>
 
-<hr />
+<!-- <hr /> -->
 
 <!-- <ul>
   <li>I work with <b>JavaScript</b>, <b>Next.js</b>, <b>React</b>, <b>Tailwind CSS</b>, and <b>styled-components</b></li>
