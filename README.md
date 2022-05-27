@@ -9,7 +9,7 @@
 
 <hr />
 
-<ul>
+<!-- <ul>
   <li>I work with <b>JavaScript</b>, <b>Next.js</b>, <b>React</b>, <b>Tailwind CSS</b>, and <b>styled-components</b></li>
   <li>I've also used <b>Python</b> for data wrangling and data visualisation</li>
   <li>Outside of coding, I enjoy learning foreign languages, drawing, running, and baking</li>
@@ -28,5 +28,5 @@
       <li><a href="https://github.com/msunji/fsopen-2022">Fullstack Open 2022</a> - I'm also trying to refresh my knowledge and fill in some gaps by going through the 2022 Fullstack Open Course. Here's how I'm faring so far.
     </ul>
   </li>
-</ul>
+</ul> -->
 
