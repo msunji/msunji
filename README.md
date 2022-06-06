@@ -2,11 +2,16 @@
   
   <div>
     <h3>👋 Hey there!</h2>
-    <p>I'm Marge. I'm a frontend developer based in rainy Taipei.</p>
+    <p>I'm Marge. I'm a frontend developer based in rainy Taipei. </p>
   </div>
   <div>
     <h3>Get in touch</h3>
     <a href="https://www.linkedin.com/in/mconsunji/">LinkedIn</a> / <a href="http://mconsunji.com/">Portfolio</a> / <a          href="mailto:marge.consunji@gmail.com">Email</a>
+  </div>
+    <div>
+    <h3>Life lately</h3>
+    📚 React, Node.js, Express, Japanese and Chinese 
+    🎮 Elden Ring
   </div>
   
  
