@@ -1,10 +1,15 @@
-<div align="center">
-  <h3>👋 Hello!</h2>
+<div>
+  
   <div>
+    <h3>👋 Hey there!</h2>
+    <p>I'm Marge. I'm a frontend developer based in rainy Taipei.</p>
+  </div>
+  <div>
+    <h3>Get in touch</h3>
     <a href="https://www.linkedin.com/in/mconsunji/">LinkedIn</a> / <a href="http://mconsunji.com/">Portfolio</a> / <a          href="mailto:marge.consunji@gmail.com">Email</a>
   </div>
   
-  <p>Hey there! I'm Marge. I'm a frontend developer based in rainy Taipei.</p>
+ 
 </div>
 
 <!-- <hr /> -->
