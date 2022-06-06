@@ -10,8 +10,11 @@
   </div>
     <div>
     <h3>Life lately</h3>
-    <p>📚 React, Node.js, Express, Japanese and Chinese</p>
-    <p>🎮 Elden Ring</p>
+      <ul>
+        <li>📚 React, Node.js, Express, Japanese and Chinese</li>
+        <li>🎮 Elden Ring</li>
+      </ul>
+
   </div>
   
  
