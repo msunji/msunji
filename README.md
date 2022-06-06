@@ -1,7 +1,7 @@
 
   <div>
     <h2>👋 Hey there!</h2>
-    <p>I'm Marge. I'm a frontend developer based in rainy Taipei. I'm looking for opportunities to grow as a developer. Hit me up if you'd like to work together!</p>
+    <p>I'm Marge. I'm a frontend developer based in rainy Taipei. I'm looking for opportunities to grow as a developer.</p>
     
   <h3>Tech Stack</h3>
   <p>JavaScript, HTML, CSS, React, Node.js, Express, Tailwind CSS, Styled-Components</p>
