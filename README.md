@@ -1,14 +1,12 @@
-<div>
-  
+
   <div>
-    <h3>👋 Hey there!</h2>
+    <h2>👋 Hey there!</h2>
     <p>I'm Marge. I'm a frontend developer based in rainy Taipei. </p>
-  </div>
-  <div>
+    
+  <h3>Tech Stack</h3>
+  <p>JavaScript, HTML, CSS, React, Node.js, Express, Tailwind CSS, Styled-Components</p>
     <h3>Get in touch</h3>
     <a href="https://www.linkedin.com/in/mconsunji/">LinkedIn</a> / <a href="http://mconsunji.com/">Portfolio</a> / <a          href="mailto:marge.consunji@gmail.com">Email</a>
-  </div>
-    <div>
     <h3>Life lately</h3>
       <ul>
         <li>📚 React, Node.js, Express, Japanese and Chinese</li>
@@ -17,8 +15,6 @@
 
   </div>
   
- 
-</div>
 
 <!-- <hr /> -->
 
