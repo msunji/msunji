@@ -1,7 +1,7 @@
 
   <div>
     <h2>👋 Hey there!</h2>
-    <p>I'm Marge. I'm a frontend developer based in rainy Taipei. I'm looking for opportunities to grow as a developer.</p>
+    <p>I'm Marge. I'm a frontend developer based in rainy Taipei. I'm looking for opportunities to grow and learn as a developer.</p>
     
   <h3>Tech Stack</h3>
   <p>JavaScript, HTML, CSS, React, Node.js, Express, Tailwind CSS, Styled-Components</p>
@@ -11,7 +11,7 @@
       <ul>
         <li>🥖 Babkas, cinnamon rolls, brioche</li>
         <li>📚 React, Node.js, Express, Japanese and Chinese</li>
-        <li>🎮 Elden Ring, 龍0</li>
+        <li>🎮 Elden Ring, 龍0 (replay)</li>
       </ul>
 
   </div>
