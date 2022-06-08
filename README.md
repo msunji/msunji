@@ -10,7 +10,7 @@
     <h3>Life lately</h3>
       <ul>
         <li>🥖 Babkas, cinnamon rolls, brioche</li>
-        <li>📚 React, Node.js, Express, Japanese and Chinese</li>
+        <li>📚 React, Node.js, Express, Testing (Jest), Japanese and Chinese</li>
         <li>🎮 Elden Ring, 龍0 (replaying)</li>
       </ul>
 
