@@ -11,7 +11,7 @@
       <ul>
         <li>🥖 Babkas, cinnamon rolls, brioche</li>
         <li>📚 React, Node.js, Express, Japanese and Chinese</li>
-        <li>🎮 Elden Ring, 龍0 (replaying)</li>
+        <li>🎮 The Great Ace Attorney, Previously: Ghost of Tsushima</li>
       </ul>
 
   </div>
