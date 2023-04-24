@@ -1,19 +1,13 @@
 
   <div>
     <h2>👋 Hey there!</h2>
-    <p>I'm Marge. I'm a frontend developer based in rainy Taipei. I'm looking for opportunities to grow and learn as a developer. When I'm not at my desk coding, you can find me baking, playing video games, or studying Chinese and Japanese.</p>
-    
-  <h3>Tech Stack</h3>
-  <p>JavaScript, HTML, CSS, React, Node.js, Express, Tailwind CSS, Styled-Components</p>
-    <h3>Get in touch</h3>
-    <a href="https://www.linkedin.com/in/mconsunji/">LinkedIn</a> / <a href="http://mconsunji.com/">Portfolio</a> / <a          href="mailto:marge.consunji@gmail.com">Email</a>
-    <h3>Life lately</h3>
-      <ul>
-        <li>🥖 Babkas, cinnamon rolls, brioche</li>
-        <li>📚 React, Node.js, Express, Japanese and Chinese</li>
-        <li>🎮 The Great Ace Attorney, Previously: Ghost of Tsushima</li>
-      </ul>
-
+    <ul>
+      <li>I'm Marge</li>
+      <li>Based in Taipei, Taiwan (GMT+8)</li>
+      <li>Work with: JavaScript, HTML, CSS, React, Node.js, Express, Tailwind CSS, Styled-Components</li>
+      <li>Now working with and learning Python for data-related tasks</li>
+      <li>I like video games, baking, and cats</li>
+    </ul>
   </div>
 
 
