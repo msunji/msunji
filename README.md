@@ -1,6 +1,6 @@
 
   <div>
-    <h2>👋 Hey there!</h2>
+    <h2>👋 Hi! Kamusta? 你好？</h2>
     <ul>
       <li>I'm Marge</li>
       <li>From Manila, now based in Taipei, Taiwan (GMT+8)</li>
