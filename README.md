@@ -4,10 +4,10 @@
     <ul>
       <li>I'm Marge</li>
       <li>From Manila, now based in Taipei, Taiwan (GMT+8)</li>
-      <li>Work with: JavaScript, HTML, CSS, React, Node.js, Express, Tailwind CSS, Styled-Components</li>
-      <li>Now working with and learning Python for data-related tasks</li>
-      <li>I like video games, baking, and cats</li>
-      <li>I like learning languages. I speak: English, Chinese and Filipino. I'm still working on mastering Chinese, but in the meantime, I'm also studying Japanese and Spanish ✨</li>
+      <li><b>Work with:</b> JavaScript, HTML, CSS, React, Node.js, Express, Tailwind CSS, and Firebase</li>
+      <li><b>Learning:</b> Python, data stuff</li>
+      <li>I like baking, hanging out with my cats, running, playing video games (currently, it's TOTK), and learning languages.</li>
+      <li>I speak: English, Chinese and Filipino. Still working on mastering Chinese, but in the meantime, I'm also studying Japanese and Spanish because why not?</li>
     </ul>
   </div>
 
